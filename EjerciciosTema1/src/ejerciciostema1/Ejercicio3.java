@@ -20,7 +20,7 @@ public class Ejercicio3 {
 				
 		System.out.print("Para que " + num1 + " sea múltiplo de " + num2 + " hay que sumarle: " + suma); //Mostramos al usuario cuanto tenemos que sumar al num1 para que pueda ser múltiplo de num2
 		
-		sc.close();b //cerramos el scanner
+		sc.close(); //cerramos el scanner
 
 	}
 
